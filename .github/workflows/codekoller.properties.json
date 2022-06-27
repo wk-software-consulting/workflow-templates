@@ -1,0 +1,7 @@
+{
+  "name": "CodeKoller Organization Workflow",
+  "description": "CodeKoller Organization CI starter workflow.",
+  "iconName": "code-koller",
+  "categories": ["JavaScript", "nodejs"],
+  "filePatterns": ["package.json$"]
+}
