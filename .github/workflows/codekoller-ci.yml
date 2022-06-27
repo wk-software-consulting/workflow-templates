@@ -2,9 +2,9 @@ name: Code Koller Organization CI
 
 on:
   pull_request:
-    branches: [ $default-branch ]
+    branches: [ develop ]
   push:
-    branches: [ $default-branch ]  
+    branches: [ develop ]  
 
 jobs:
   build:
